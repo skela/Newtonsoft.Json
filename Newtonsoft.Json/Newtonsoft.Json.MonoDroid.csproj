@@ -12,6 +12,7 @@
     <RootNamespace>Newtonsoft.Json.MonoDroid</RootNamespace>
     <AssemblyName>Newtonsoft.Json.MonoDroid</AssemblyName>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkVersion>v4.0.3</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>True</DebugSymbols>
